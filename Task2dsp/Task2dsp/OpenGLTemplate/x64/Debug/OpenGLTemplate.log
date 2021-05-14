@@ -1,0 +1,5 @@
+﻿  Audio.cpp
+B:\Others\Uni\DSPAP\Coursework\Task2dsp\OpenGLTemplate\Audio.cpp(67,40): warning C4305: 'argument': truncation from 'double' to 'float'
+B:\Others\Uni\DSPAP\Coursework\Task2dsp\OpenGLTemplate\Audio.cpp(110,39): warning C4305: 'argument': truncation from 'double' to 'float'
+B:\Others\Uni\DSPAP\Coursework\Task2dsp\OpenGLTemplate\Audio.cpp(195,39): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGLTemplate.vcxproj -> B:\Others\Uni\DSPAP\Coursework\Task2dsp\x64\Debug\OpenGLTemplate.exe

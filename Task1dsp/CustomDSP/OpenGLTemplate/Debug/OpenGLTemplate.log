@@ -1,0 +1,15 @@
+﻿  Audio.cpp
+C:\Users\Suzu9\Downloads\CustomDSP\OpenGLTemplate\Audio.cpp(145,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Suzu9\Downloads\CustomDSP\OpenGLTemplate\Audio.cpp(221,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Suzu9\Downloads\CustomDSP\OpenGLTemplate\Circularbuffer.h(30,22): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Suzu9\Downloads\CustomDSP\OpenGLTemplate\Circularbuffer.h(29): message : while compiling class template member function 'int Circularbuffer<float>::DisplayPosition(int)'
+C:\Users\Suzu9\Downloads\CustomDSP\OpenGLTemplate\Circularbuffer.h(71): message : see reference to function template instantiation 'int Circularbuffer<float>::DisplayPosition(int)' being compiled
+C:\Users\Suzu9\Downloads\CustomDSP\OpenGLTemplate\Audio.cpp(12): message : see reference to class template instantiation 'Circularbuffer<float>' being compiled
+  Camera.cpp
+  Game.cpp
+  Generating Code...
+  OpenGLTemplate.vcxproj -> C:\Users\Suzu9\Downloads\CustomDSP\Debug\OpenGLTemplate.exe
